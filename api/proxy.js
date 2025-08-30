@@ -2,7 +2,7 @@
 
 // 域名映射配置
 const domain_mappings = {
-  'github.com': 'v-gh.',
+  'github.com': 'gh.262832.xyz',
   'avatars.githubusercontent.com': 'v-avatars-githubusercontent-com.',
   'github.githubassets.com': 'v-github-githubassets-com.',
   'collector.github.com': 'v-collector-github-com.',
